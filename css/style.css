@@ -42,7 +42,7 @@
    position: absolute;
    top: 35%;
    left: 25vh;
-   width: 300px;
+   width: 260px;
 }
 
 #address-content h2{
@@ -139,7 +139,7 @@
 
    #form-container{
       order: -1;
-      padding: 20px;
+      padding: 10px;
    }
 
    #form-container h2{
@@ -167,6 +167,6 @@
 
    #address-content{
       top: 25%;
-      left: 25%;
+      left: 18%;
    }
 }
